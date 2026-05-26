@@ -1,0 +1,52 @@
+text,label
+"Your bank account is blocked. Click http://verify-bank.com now",phishing
+"Congratulations! You won $5000 claim now",phishing
+"Urgent action required. Login immediately",phishing
+"Meeting scheduled tomorrow at 10AM",safe
+"Please find attached project report",safe
+"Let's have lunch together",safe
+"Update your account details at http://fake-login.com",phishing
+"Happy Birthday! Have a wonderful day",safe
+"Reset your password immediately",phishing
+"Your order has been shipped successfully",safe
+"Your PayPal account has been suspended. Verify now",phishing
+"Click here to claim your free iPhone",phishing
+"Urgent: Your account will be closed today",phishing
+"You have won a lottery prize of $10000",phishing
+"Security alert! Login immediately",phishing
+"Confirm your bank details now",phishing
+"Your package delivery failed. Update address here",phishing
+"Limited offer! Click and win rewards",phishing
+"Your account password expired. Reset now",phishing
+"Get rich quickly with this secret trick",phishing
+"Important notice: Verify identity",phishing
+"Free vacation tickets available now",phishing
+"Click this link to avoid account suspension",phishing
+"Your tax refund is waiting. Claim now",phishing
+"Update payment information immediately",phishing
+"Reset password here: http://secure-login-reset.com",phishing
+"Login attempt detected. Verify account now",phishing
+"Claim your reward by clicking the link",phishing
+"Unusual activity detected in your account",phishing
+"Congratulations! You are selected as a winner",phishing
+
+"Good morning team, meeting starts at 9 AM",safe
+"Please review the attached project report",safe
+"Happy anniversary and best wishes",safe
+"Lunch at 1 PM today?",safe
+"Your Amazon order has been shipped",safe
+"Reminder for tomorrow's workshop",safe
+"Can we reschedule the meeting?",safe
+"Thank you for your support",safe
+"Project presentation has been updated",safe
+"Let's catch up this weekend",safe
+"Assignment submission deadline extended",safe
+"Please send me the notes",safe
+"Your interview is scheduled for next week",safe
+"Monthly performance report attached",safe
+"Hope you are doing well",safe
+"Birthday celebration at office tomorrow",safe
+"Meeting invitation for Friday",safe
+"Your registration was successful",safe
+"See you at college tomorrow",safe
+"Dinner plan confirmed for tonight",safe
